@@ -1,0 +1,1 @@
+# 2026-Insanl-k_Yarar-na_Teknoloji_Yar-smas--Proje-Sunum-Dokunus

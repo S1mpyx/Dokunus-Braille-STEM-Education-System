@@ -72,7 +72,7 @@ Dokunuş, öğrencinin yaptığı çalışmayı anında değerlendirerek doğru 
 - Öğretmen ve aile üzerindeki yükü azaltmak
 - Yerli ve düşük maliyetli bir eğitim sistemi geliştirmek
 - Eğitimde fırsat eşitliğine katkı sağlamak
-<img src="https://r.resimlink.com/WVfr8D-mXc.png" width="700">
+<img src="https://r.resimlink.com/9-4L1j.png" width="700">
 
 ---
 
@@ -337,6 +337,7 @@ Bu projeye katkı sağlayan danışman öğretmenimize, takım arkadaşlarımız
 - поддержку инклюзивного образования;
 - снижение зависимости от преподавателя;
 - создание доступной отечественной образовательной системы.
+<img src="https://r.resimlink.com/9-4L1j.png" width="700">
 
 ---
 

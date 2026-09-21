@@ -72,6 +72,7 @@ Dokunuş, öğrencinin yaptığı çalışmayı anında değerlendirerek doğru 
 - Öğretmen ve aile üzerindeki yükü azaltmak
 - Yerli ve düşük maliyetli bir eğitim sistemi geliştirmek
 - Eğitimde fırsat eşitliğine katkı sağlamak
+<img src="https://r.resimlink.com/WVfr8D-mXc.png" width="700">
 
 ---
 
